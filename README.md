@@ -1,0 +1,1 @@
+This repository demonstrates a common Kotlin error: attempting to use the `removeIf()` function on an immutable list.  The `bug.kt` file shows the error, while `bugSolution.kt` provides the correct approach using a mutable list.
